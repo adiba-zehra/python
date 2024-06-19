@@ -32,8 +32,6 @@ letter of each word capitalized).
 other.
 19. Write a python program that removes all punctuation from a given string.
 20. Write a python program that takes a list of numbers and returns their sum.
-PYTHON PROGRAMMING BASIC PART-1
-2 | P a g e
 21. Write a python program that counts the occurrences of a specific element 
 in a list.
 22. Write a python program that returns the minimum and maximum values 
